@@ -1,5 +1,5 @@
 #!/bin/bash
-# Disable Panel Self Refresh of Framework laptop
+# Disable Panel Self Refresh on Framework laptop running Linux Mint
 
 # Exit on error
 set -e
